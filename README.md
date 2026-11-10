@@ -12,9 +12,12 @@ A research paper describing the StudyPalz personalized academic learning-path re
 - **Article:** [Read the published article](https://www.ijpe-online.com/EN/10.23940/ijpe.25.09.p3.496505)
 - **Repository copy:** [StudyPalz paper (PDF)](./StudyPalz_%20A%20Personalized%20Academic%20Learning%20Path%20Recommendation%20System.pdf)
 
-### CrowdPalz
+### CrowdPalz: Smart Venue Occupancy Management & Discovery Platform
 
-A published research paper on the CrowdPalz system. The canonical journal or proceedings citation can be added once its exact publication details are confirmed.
+A student project paper prepared for the F.Y.B. Tech Applied Science & Engineering Project 2 (ASEP2), Semester 2, Academic Year 2024–25, at Vishwakarma Institute of Technology, Pune.
+
+- **Manuscript:** [CrowdPalz research paper (DOCX)](./CrowdPalz_ResearchPaper-%20new%20updated.docx)
+- **Publication details:** The supplied manuscript does not identify a journal, conference, proceedings volume, DOI, or publication URL. Add a formal publication citation only once those details are confirmed.
 
 ## Citation and reuse
 
