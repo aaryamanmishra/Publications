@@ -14,7 +14,7 @@ A research paper describing the StudyPalz personalized academic learning-path re
 
 ## Additional research material
 
-The repository also contains a CrowdPalz research manuscript file. Its publication status is not specified here, so it should be treated as supporting research material rather than a confirmed publication.
+The repository also contains the CrowdPalz research paper. CrowdPalz is published research; add its canonical journal or proceedings citation here once the exact publication details are confirmed.
 
 ## Citation and reuse
 
