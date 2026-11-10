@@ -12,13 +12,18 @@ A research paper describing the StudyPalz personalized academic learning-path re
 - **Article:** [Read the published article](https://www.ijpe-online.com/EN/10.23940/ijpe.25.09.p3.496505)
 - **Repository copy:** [StudyPalz paper (PDF)](./StudyPalz_%20A%20Personalized%20Academic%20Learning%20Path%20Recommendation%20System.pdf)
 
-### CrowdPalz: Smart Venue Occupancy Management & Discovery Platform
+### CrowdPalz: A Hybrid AI Platform for Real-Time Venue Analytics and Personalized User Engagement
 
-A student project paper prepared for the F.Y.B. Tech Applied Science & Engineering Project 2 (ASEP2), Semester 2, Academic Year 2024–25, at Vishwakarma Institute of Technology, Pune.
+A research article on a hybrid AI platform for real-time venue occupancy analytics and personalized user engagement.
 
-- **Manuscript:** [CrowdPalz research paper (DOCX)](./CrowdPalz_ResearchPaper-%20new%20updated.docx)
-- **Publication details:** The supplied manuscript does not identify a journal, conference, proceedings volume, DOI, or publication URL. Add a formal publication citation only once those details are confirmed.
+- **Publication:** Grenze International Journal of Engineering & Technology (GIJET), 2026
+- **Pages:** 4183–4191
+- **Article record:** [EurekaMag bibliographic listing](https://eurekamag.com/research/109/581/109581450.php)
+- **Additional institutional record:** [VIT faculty publication listing](https://facultyprofile.vit.edu/profile/12138)
+- **Repository copy:** [CrowdPalz research paper (DOCX)](./CrowdPalz_ResearchPaper-%20new%20updated.docx)
+
+The available records agree on the article title, author group, journal and page range, but EurekaMag displays conflicting conference metadata. The journal citation above follows the GIJET identification in the EBSCO record and the VIT faculty publication listing; verify against the publisher's issue page before adding a DOI or a more detailed issue citation.
 
 ## Citation and reuse
 
-For StudyPalz, use the journal's article page as the canonical citation source. Check the relevant publication and dataset terms before redistributing any document or research material from this repository.
+For StudyPalz and CrowdPalz, use the linked publication records as citation starting points. Check the relevant publication and dataset terms before redistributing any document or research material from this repository.
